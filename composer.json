@@ -1,0 +1,11 @@
+{
+	"require": {
+		"symfony/process": "^5.3",
+		"nesbot/carbon": "^2.54"
+	},
+	"autoload": {
+		"psr-4": {
+			"Vrkansagara\\Init\\": "./src"
+		}
+	}
+}
